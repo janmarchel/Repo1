@@ -1,1 +1,1 @@
-wszystkie pliki sa sledzone poniewaz "." 
+wszystkie pliki sa sledzone poniewaz ".", pliki z rozszerzeniem *.dat nie sa sledzone bo ".gitignore" 
